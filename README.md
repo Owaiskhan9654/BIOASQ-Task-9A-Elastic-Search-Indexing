@@ -1,4 +1,4 @@
-This Live Notebook is created by Owais Ahmad, contact and questions: [owaiskhan9654.github.io](https://owaiskhan9654.github.io/)
+This Live Notebook is created by Owais Ahmad, If you have any problems please contact and questions at: [owaiskhan9654.github.io](https://owaiskhan9654.github.io/)
 
 
 This notebook is bit lengthy but I have explained everthing very precisely
