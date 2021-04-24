@@ -38,7 +38,7 @@ es = Elasticsearch(HOST="http://localhost", PORT=9200)
 
 ### In BIOASQ TASK 9A total  Number of articles present are 15,559,157 which is around 25.6 GB in size and Total Number of MeSH Covered in These articles are 29,369
 
-### Loading BioAsq Task 8a Dataset
+### Loading BioAsq Task 9a Dataset
 
 In this notebook I am only working with sample size of 10,000 
 
