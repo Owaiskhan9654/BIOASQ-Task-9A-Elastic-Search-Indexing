@@ -1,5 +1,5 @@
 This Live Notebook is created by Owais Ahmad, contact and questions: [owaiskhan9654.github.io](https://owaiskhan9654.github.io/)
-
+This notebook is bit lengthy but I have explained everthing very precisely
 # ElasticSearch Basics
 - [ElasticSearch installation](https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html)
 - [ElasticSearch python client](https://elasticsearch-py.readthedocs.io/en/master/)
